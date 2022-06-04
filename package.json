@@ -1,0 +1,25 @@
+{
+  "name": "nft_hash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSun97/NFT_hash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSun97/NFT_hash/issues"
+  },
+  "homepage": "https://github.com/SSun97/NFT_hash#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "canvas": "^2.9.1",
+    "crypto-js": "^4.1.1"
+  }
+}
